@@ -1,4 +1,4 @@
 # Creative Agency Landing Page
-Creative Agency web design
 
-This is a template landing page design for a Creative Agency.
+
+This is a template design for a Creative Agency landing page. This can be used as a starter page to customize for different clients and their needs. 
